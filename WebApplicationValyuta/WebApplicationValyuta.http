@@ -1,0 +1,6 @@
+@WebApplicationValyuta_HostAddress = http://localhost:5207
+
+GET {{WebApplicationValyuta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
